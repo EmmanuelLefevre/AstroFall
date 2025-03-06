@@ -1,0 +1,54 @@
+/*------Grow------*/
+.grow {
+  animation: grow 2s ease-out;
+}
+@keyframes grow {
+  0% {
+    transform: scale(0) translateZ(-200px);
+  }
+  15% {
+    transform: scale(0.3) translateZ(-150px);
+  }
+  30% {
+    transform: scale(1.2) translateZ(-50px);
+  }
+  50% {
+    transform: scale(0.9);
+  }
+  70% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/*------FlipX------*/
+.flipX {
+  animation: flipX 1.5s ease-in-out;
+}
+@keyframes flipX {
+  from {
+    transform: perspective(400px) rotate3d(1, 0, 0, 90deg);
+    animation-timing-function: ease-in;
+    opacity: 0;
+  }
+
+  40% {
+    transform: perspective(400px) rotate3d(1, 0, 0, -20deg);
+    animation-timing-function: ease-in;
+  }
+
+  60% {
+    transform: perspective(400px) rotate3d(1, 0, 0, 10deg);
+    opacity: 1;
+  }
+
+  80% {
+    transform: perspective(400px) rotate3d(1, 0, 0, -5deg);
+  }
+
+  to {
+    transform: perspective(400px);
+  }
+}
