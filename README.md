@@ -19,7 +19,7 @@ Le PowerPoint de présentation du projet est disponible dans le répertoire "ann
 
 ## 💻 TECHNOS
 - **Langages**: TypeScript 5, Sass
-- **Librairies**: NextJS, Recharts, ShadUI, Tailwind
+- **Librairies**: NextJS, Recharts, OpenStreetMap, Tailwind, Mongoose
 - **SGDB**: MongoDB
 - **Déploiement**: Vercel
 
