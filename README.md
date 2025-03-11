@@ -41,17 +41,17 @@ yarn dev
 ```bash
 http://localhost:3000
 ```
-**4. Build (optionnel)**
+**4. Optionnel (build)**
 ```bash
 yarn build
 ```
 
 ## 🚨 DEPLOIEMENT
-**1. Se connecter à Vercel**
+**1. Connection à Vercel**
 ```bash
 vercel login
 ```
-**2. Lier le projet à Vercel**
+**2. Lier le projet**
 ```bash
 vercel link
 ```
