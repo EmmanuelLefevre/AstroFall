@@ -9,9 +9,10 @@
 - [DEPLOIEMENT](#-deploiement)
 
 ## 👋 INTRODUCTION
-Explorez les chutes de météorites à travers ce site de data-visualisation.
+Explorez les chutes de météorites à travers ce site de data-visualisation.  
 Grâce aux données des chutes de météorites recensées par la NASA nous vous offrons une compréhension claire et immersive des ces phénomènes célestes.  
-Chaque année des milliers de météorites traversent notre atmosphère et viennent s'écraser sur Terre laissant derrière elles des traces fascinantes. Que vous soyez passionné d’astronomie, chercheur ou simplement curieux, découvrez les secrets des météorites grâce à une approche visuelle et intuitive.  
+Chaque année des milliers de météorites traversent notre atmosphère et viennent s'écraser sur Terre laissant derrière elles des traces fascinantes.  
+Que vous soyez passionné d’astronomie, chercheur ou simplement curieux, découvrez les secrets des météorites grâce à une approche visuelle et intuitive.  
 Préparez-vous à un voyage à travers l’espace et le temps !
 
 ## 👀 PRESENTATION
