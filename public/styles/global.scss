@@ -272,6 +272,10 @@ body {
             width: 400px !important;
             height: 400px !important;
           }
+          @media (width >= 1150px) and (height <= 700px) {
+            width: 350px !important;
+            height: 350px !important;
+          }
           @media (width >= 1300px) {
             width: 430px !important;
             height: 430px !important;
