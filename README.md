@@ -1,24 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ☄️ ASTROFALL
 
-## Getting Started
+## 📋 SOMMAIRE
+- [INTRODUCTION](#-introduction)
+- [PRESENTATION](#-presentation)
+- [TECHNOS](#-technos)
+- [REQUIREMENTS](#-requirements)
+- [GETTING STARTED](#-getting-started)
+- [DEPLOIEMENT](#-deploiement)
 
-First, run the development server:
+## 👋 INTRODUCTION
+Explorez les chutes de météorites à travers ce site de data-visualisation.
+Grâce aux données des chutes de météorites recensées par la NASA nous vous offrons une compréhension claire et immersive des ces phénomènes célestes.  
+Chaque année des milliers de météorites traversent notre atmosphère et viennent s'écraser sur Terre laissant derrière elles des traces fascinantes. Que vous soyez passionné d’astronomie, chercheur ou simplement curieux, découvrez les secrets des météorites grâce à une approche visuelle et intuitive.  
+Préparez-vous à un voyage à travers l’espace et le temps !
 
+## 👀 PRESENTATION
+Le PowerPoint de présentation du projet est disponible dans le répertoire "annexes".
+
+## 💻 TECHNOS
+- **Langages**: TypeScript 5, Sass
+- **Librairies**: NextJS, Recharts, ShadUI, Tailwind
+- **SGDB**: MongoDB
+- **Déploiement**: Vercel
+
+## 📚 REQUIREMENTS
+- NodeJS 20.18.0
+- Yarn/NPM
+- Vercel CLI
+
+## 🚀 GETTING STARTED
+**1. Installer les librairies**
 ```bash
-npm run dev
-# or
+yarn
+```
+**2. Lancer l'application en local**
+```bash
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+**3. Build**
+```bash
+yarn build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚨 DEPLOIEMENT
+**1. Se connecter à Vercel**
+```bash
+vercel login
+```
+**2. Lier le projet à Vercel**
+```bash
+vercel link
+```
+**3. Déployer**
+```bash
+vercel --prod
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+***
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+⭐⭐⭐ I hope you enjoy it, if so don't hesitate to leave a like on this repository and on the [Dotfiles](https://github.com/EmmanuelLefevre/Dotfiles) one (click on the "Star" button at the top right of the repository page). Thanks 🤗
+
+
+
+
+
+
+
 
 ## Learn More
 
