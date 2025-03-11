@@ -41,7 +41,7 @@ yarn dev
 ```bash
 http://localhost:3000
 ```
-**4. Optionnel (build)**
+**4. Build (optionnel)**
 ```bash
 yarn build
 ```
