@@ -37,7 +37,11 @@ yarn
 ```bash
 yarn dev
 ```
-**3. Build**
+**3. Ouvrez votre navigateur à cette URL**
+```bash
+http://localhost:3000
+```
+**4. Build (optionnel)**
 ```bash
 yarn build
 ```
