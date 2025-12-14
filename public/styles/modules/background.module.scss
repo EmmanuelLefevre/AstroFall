@@ -1,0 +1,10 @@
+.background {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  .image {
+    object-fit: cover;
+    filter: brightness(0.9);
+  }
+}
